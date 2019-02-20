@@ -13,6 +13,7 @@ disableKinds = ["RSS", "sitemap", "404"]
         useSessionStorage = true
 
 [params]
-    author = "Your Name"
-    title  = "Your Resume"
-    style  = "pillar-1.css"
+    author  = "Your Name"
+    title   = "Your Resume"
+    tagline = "My Resume"
+    style   = "pillar-1.css"
