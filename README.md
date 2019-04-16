@@ -11,8 +11,7 @@ This is a **[Hugo](https://gohugo.io/)** port of the **[Pillar](https://themes.3
 
 
 ## Screenshot
-![alt text][screenshot]
-[screenshot]: https://themes.3rdwavemedia.com/wp-content/uploads/2018/05/Bootstrap-Resume-CV-Template-Pillar-Pormo.jpg "Pillar screenshot"
+![screenshot](https://themes.3rdwavemedia.com/wp-content/uploads/2018/05/Bootstrap-Resume-CV-Template-Pillar-Pormo.jpg "Pillar screenshot")
 
 
 ## Install
